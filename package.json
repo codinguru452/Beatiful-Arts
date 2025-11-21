@@ -1,0 +1,23 @@
+{
+  "name": "beautiful-arts",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000e\u0000a\u0000t\u0000i\u0000f\u0000u\u0000l\u0000-\u0000A\u0000r\u0000t\u0000s\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/codinguru452/Beatiful-Arts#readme",
+  "bugs": {
+    "url": "https://github.com/codinguru452/Beatiful-Arts/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codinguru452/Beatiful-Arts.git"
+  },
+  "license": "ISC",
+  "author": "christine kibara",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
